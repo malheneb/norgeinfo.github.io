@@ -34,6 +34,7 @@
 ??? question "Чаты в Telegram"
     __Загальні__
 
+    - [Чат ЗАЩИТА Норвегия](https://t.me/norway_life)
     - [Захист. Українці в Норвегії](https://t.me/norway_ukraine)
 
     __Регіональні__
