@@ -1,5 +1,10 @@
 ## :octicons-law-16:{ .lg .middle } Коллективная защита украинцев в Норвегии { #om-kollektiv-beskyttelse }
 
+!!! warning "Повторное получение коллективной защиты"
+
+    __Внимание!__ С 01.07.24 Норвегия больше [не предоставляет](https://www.regjeringen.no/no/dokumenter/g-052024-ikrafttredelse-av-endringer-i-utlendingsforskriften-7-5-a-avgrensning-av-personkretsen-som-omfattes-av-ordningen-med-midlertidig-kollektiv-beskyttelse-for-fordrevne-fra-ukraina/id3041388/) коллективную защиту повторно, даже при условии выполнения критериев. Соответственно, если Вами ранее была получена защита в Норвегии и она была отозвана или не продлена - критерии описанные ниже к вам не относятся и ваше заявление будет рассмотрено [:octicons-arrow-right-24: как заявление о убежище (индивидуальной защите)](#individuell-beskyttelse)
+
+
 ??? question "Принимает ли Норвегия беженцев из Украины?"
 
     Да, Норвегия принимает на данный момент беженцев из Украины по [программе временной коллективной защите](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/).
@@ -351,13 +356,13 @@ __Выберите пункт отправления__ :material-arrow-down-circ
 
     __Учитываете, что:__
 
-    - Рассмотрение заявления о предоставлении индивидуальной защиты в Норвегии длиться существенно дольше, чем рассмотрение коллективной защиты.
+    - Рассмотрение заявления о предоставлении индивидуальной защиты в Норвегии длиться существенно дольше, чем рассмотрение коллективной защиты. Исходя из последних заявлений UDI, был начат первый раунд интервью для ожидающих индивидуальную защиту. Вместе с этим [была снова введена обязанность](https://www.udi.no/aktuelt/individuell-behandling-av-asylsoknader-fra-ukraina/) покинуть Норвегию в случае получения отказа - обычная практика что ранее не применялась к украинцам. В данном контексте ввдено понятие [безопасных областей в Украине](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2024-004/#6.6._Internflukt)
     - На данный момент нет граждан Украины, которые получили индивидуальную защиту. По статистике за [2024 год](https://www.udi.no/statistikk-og-analyse/statistikk/asylvedtak-etter-statsborgerskap-og-utfall-2024/), [2023 год](https://www.udi.no/statistikk-og-analyse/statistikk/asylvedtak-etter-statsborgerskap-og-utfall-2023/), [2022 год](https://www.udi.no/statistikk-og-analyse/statistikk/asylvedtak-etter-statsborgerskap-og-utfall-2022/) есть только одно решение о предоставлении временного вида на жительство в Норвегии до достижения ими 18-летнего возраста (EMA begrenset). Одновременно это решение является _отказом_ в предоставлении индивидуальной защиты.
     - На время рассмотрение заявления, вы не имеете право работать. Однако вы можете [подать заявление о получении временного разрешения на работу](https://udi.no/en/have-applied/protection-asylum/can-you-work/).
     - Как правило, на время рассмотрения заявления, у вас забирают паспорт.
     - Вы не можете выезжать из Норвегии во время рассмотрения заявления о предоставлении индивидуальной защиты.
-    - Если вы откажитесь от своего заявления о предоставление убежища, вы можете подать на любой иной тип разрешения. До тех пор, пока обязанность возвращения в Украину приостановлена, являясь гражданином Украины,
-    [вы можете подавать заявление о выдаче всех видов разрешений, находясь на территории Норвегии](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/if-you-do-not-meet-the-requirements-for-collective-protection/#link-31644).
+    - Если вы откажетесь от своего заявления о предоставление убежища, вы можете подать на любой иной тип разрешения. До тех пор, пока обязанность возвращения в Украину приостановлена, являясь гражданином Украины,
+    [вы можете подавать заявление о выдаче всех видов разрешений, находясь на территории Норвегии](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/if-you-do-not-meet-the-requirements-for-collective-protection/#link-31644). 
 
     Для получение больше информации, рекомендуется изучить информацию на сайте UDI, в том числе источники, перечисленные ниже. 
 
@@ -377,3 +382,4 @@ __Выберите пункт отправления__ :material-arrow-down-circ
     - [Infformasjon til søkere som er i Dublin-prosedyre (UDI)](https://www.udi.no/viktige-meldinger/informasjon-til-deg-som-er-i-dublin-prosedyre/)
     - [Dublin-saker - Utlendingsnemda (UNE)](https://www.une.no/sakstyper/dublinsaker/)
     - [Beskyttelse/Asyl - Utlendingsnemda (UNE)](https://www.une.no/sakstyper/beskyttelseasyl/)
+    - [Практика рассмотрения заявок о индивидуальной защите для граждан Украины](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2024-004/)
