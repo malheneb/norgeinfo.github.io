@@ -1,4 +1,4 @@
-## :octicons-law-16:{ .lg .middle } Коллективная защита украинцев в Норвегии { #om-kollektiv-beskyttelse }
+# :octicons-law-16:{ .lg .middle } Коллективная защита украинцев в Норвегии { #om-kollektiv-beskyttelse }
 
 !!! warning "Повторное получение коллективной защиты"
 
