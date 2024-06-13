@@ -1,10 +1,11 @@
 ---
 hide:
-  - navigation
   - toc
 ---
 
-## Вища освіта
+# Освіта
+
+## Загальне
 
 - [Умови вступу до університетів y Норвегії (Мікрокурс від кар'єрного центру в Осло)](https://vimeo.com/810049944/2c31ac7c9b)
 - [Приймальна комісія для вступу в університети та коледжі (Samordna opptak)](https://www.samordnaopptak.no/info/utenlandsk_utdanning/ukraina/) <small>(норвезькою)</small> 
