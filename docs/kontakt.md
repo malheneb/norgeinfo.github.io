@@ -41,4 +41,3 @@
     
     - [Sunnfjord Українці: Офіційна](https://t.me/sunnfjord_ukr)
     - [Українці в Тронхеймі (DUFT)](https://t.me/ukrainsk_trondheim)
-    - [Bergen Kommune](https://t.me/BergenNorway)
