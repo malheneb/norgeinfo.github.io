@@ -383,3 +383,7 @@ __Выберите пункт отправления__ :material-arrow-down-circ
     - [Dublin-saker - Utlendingsnemda (UNE)](https://www.une.no/sakstyper/dublinsaker/)
     - [Beskyttelse/Asyl - Utlendingsnemda (UNE)](https://www.une.no/sakstyper/beskyttelseasyl/)
     - [Практика рассмотрения заявок о индивидуальной защите для граждан Украины](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2024-004/)
+    
+    Чаты
+
+    - [ІНДИВІДУАЛЬНИЙ ЗАХИСТ для українців в Норвегії](https://t.me/stay_safe_in_Norway)
