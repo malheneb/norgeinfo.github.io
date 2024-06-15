@@ -41,3 +41,4 @@
     
     - [Sunnfjord Українці: Офіційна](https://t.me/sunnfjord_ukr)
     - [Українці в Тронхеймі (DUFT)](https://t.me/ukrainsk_trondheim)
+    - [Украина-Норвегия-Берген волонтёр](https://t.me/NikRod7)

@@ -1,6 +1,5 @@
 # :material-hospital-box:{ .lg .middle } Медична допомога { #helsehjelp }
 
-
 ??? question "Важливі номери телефонів"
 
     __Екстрена швидка допомога (ambulanse) :fontawesome-solid-phone-volume: 110__
