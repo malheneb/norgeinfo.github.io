@@ -15,7 +15,7 @@
     Карта резидента не является удостоверением личности, а идет в связке с загранпаспортом как дополнение к нему. Если вы собираетесь выехать из Норвегии, у вас должен быть на руках
     [действующий загранпаспорт и карта резидента](https://www.udi.no/viktige-meldinger/har-du-planlagt-a-reise-til-utlandet/). 
 
-??? question "Решение IMDI о определении в коммуну"
+??? question "Решение IMDI об определении в коммуну"
 
     ![Image title](assets/vedtak-om-bosettingskommune.jpg){: style="width:300px", align=left } 
 
