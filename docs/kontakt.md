@@ -48,3 +48,4 @@
     - [Ukraina - Hamar](https://t.me/+bFCpv37F-qMxNzZi)<small>(необхідне підтвердження адміністратора)</small>
     - [Lillestrøm](https://t.me/Lille_Bille)
     - [Українці Шієн Норвегія / Ukrainian Skien Norway](https://t.me/norge_skien_ukrainian)
+    - [Time kommune Norway for Ukrainians](https://t.me/Time20224)
