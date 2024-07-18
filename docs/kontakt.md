@@ -42,3 +42,9 @@
     - [Sunnfjord Українці: Офіційна](https://t.me/sunnfjord_ukr)
     - [Українці в Тронхеймі (DUFT)](https://t.me/ukrainsk_trondheim)
     - [Украина-Норвегия-Берген волонтёр](https://t.me/NikRod7)
+    - [Oslo Kommune / Осло Коммуна](https://t.me/Oslo_Kommune)
+    - [Ukrainere i Drammen](https://t.me/ukrainereidrammen)
+    - [Українці в Агдері](https://t.me/ukrainiansinAgder)
+    - [Ukraina - Hamar](https://t.me/+bFCpv37F-qMxNzZi)<small>(необхідне підтвердження адміністратора)</small>
+    - [Lillestrøm](https://t.me/Lille_Bille)
+    - [Українці Шієн Норвегія / Ukrainian Skien Norway](https://t.me/norge_skien_ukrainian)
