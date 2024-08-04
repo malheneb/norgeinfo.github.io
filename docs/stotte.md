@@ -19,7 +19,7 @@
 
 ??? question "3 этап: При участии в интродукционной программе"
 
-    [:octicons-arrow-right-24: Розрахунок суми щомісячної допомоги учасника інтродукційної програми](../introduksjonsprogram/#stonad).
+    [:octicons-arrow-right-24: Розрахунок суми щомісячної допомоги учасника інтродукційної програми](introduksjonsprogram.md/#stonad).
 
 
 ??? question "Інша допомога"
