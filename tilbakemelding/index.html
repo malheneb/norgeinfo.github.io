@@ -585,31 +585,13 @@
 
 <h1 id="_1">Повідомити про помилку</h1>
 <hr />
-<p><form
-  action="https://formspree.io/f/mblreqaz"
-  method="POST"
->
-
-  <label>
-    Напишіть нам про помилку на сайті:
-    <textarea name="message"></textarea>
-  </label>
-  <button type="submit" class='md-button md-button--secondary'>Надіслати</button>
-</form>
-</p>
-<form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+<form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/f/mblreqaz" method="POST">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <label for="telephone">Telephone Number (Optional)</label>
-    <input type="telephone" name="telephone" id="telephone" placeholder="(555) 555-5555">
-    <label for="complaint">Complaint</label>
-    <textarea rows="6" name="complaint" id="complaint" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Complaint Form Submission">
+    <label for="complaint">Напишіть нам про помилку на сайті:</label>
+    <textarea rows="6" name="message" id="message" placeholder="" required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Ошибка сайт">
   </fieldset>
-  <input type="submit" value="File Complaint">
+  <input type="submit" value="Надіслати повідомлення">
 </form>
 <style>/* reset */
 #fs-frm input,
@@ -681,42 +663,6 @@
 #fs-frm [type="submit"],
 #fs-frm [type="reset"] {
   margin-bottom: 0;
-}
-#fs-frm select {
-  text-transform: none;
-}
-
-#fs-frm [type="checkbox"] {
-  -webkit-appearance: checkbox;
-  -moz-appearance: checkbox;
-  appearance: checkbox;
-  display: inline-block;
-  width: auto;
-  margin: 0 .5em 0 0 !important;
-}
-
-#fs-frm [type="radio"] {
-  -webkit-appearance: radio;
-  -moz-appearance: radio;
-  appearance: radio;
-}
-
-/* address, locale */
-#fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"],
-#fs-frm fieldset.locale input[name="postal-code"] {
-  display: inline;
-}
-#fs-frm fieldset.locale input[name="city"] {
-  width: 52%;
-}
-#fs-frm fieldset.locale select[name="state"],
-#fs-frm fieldset.locale input[name="postal-code"] {
-  width: 20%;
-}
-#fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"] {
-  margin-right: 3%;
 }
 </style>
 
