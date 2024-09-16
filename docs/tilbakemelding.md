@@ -7,7 +7,7 @@ hide:
 
 ---
 
-<form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/f/mblreqaz" method="POST">
+<form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/f/mgvwbdwe" method="POST">
   <fieldset id="fs-frm-inputs">
     <label for="complaint">Напишіть нам про помилку на сайті:</label>
     <textarea rows="6" name="message" id="message" placeholder="" required autofocus maxlength='2500'></textarea>
