@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Сообщить об ошибке
+# Повідомити про помилку
 
 ---
 
@@ -13,12 +13,14 @@ hide:
 >
 
   <label>
-    Напишите нам об ошибке на сайте:
+    Напишіть нам про помилку на сайті:
     <textarea name="message"></textarea>
   </label>
-  <button type="submit">Послать</button>
+  <button type="submit" class='md-button md-button--secondary'>Надіслати</button>
 </form>
+
+
 
 ---
 
-[Повернуться на головну сторінку](index.md){ .md-button .md-button--primary }
+[Повернутися на головну сторінку](index.md){ .md-button .md-button--primary }
