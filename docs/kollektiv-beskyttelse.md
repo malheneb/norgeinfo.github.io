@@ -1,8 +1,18 @@
 # :octicons-law-16:{ .lg .middle } Коллективная защита украинцев в Норвегии { #om-kollektiv-beskyttelse }
 
-!!! warning "Повторное получение коллективной защиты"
+!!! warning "Получение коллективной защиты жителями безопасных областей"
 
-    __Внимание!__ С 01.07.24 Норвегия больше [не предоставляет](https://www.regjeringen.no/no/dokumenter/g-052024-ikrafttredelse-av-endringer-i-utlendingsforskriften-7-5-a-avgrensning-av-personkretsen-som-omfattes-av-ordningen-med-midlertidig-kollektiv-beskyttelse-for-fordrevne-fra-ukraina/id3041388/) коллективную защиту повторно, даже при условии выполнения критериев. Соответственно, если Вами ранее была получена защита в Норвегии и она была отозвана или не продлена - критерии описанные ниже к вам не относятся и ваше заявление будет рассмотрено [:octicons-arrow-right-24: как заявление о убежище (индивидуальной защите)](#individuell-beskyttelse)
+    __Внимание!__ С 28.09.24 Норвегия больше [не предоставляет](https://www.regjeringen.no/no/aktuelt/regjeringen-endrer-reglene-farre-ukrainere-vil-fa-kollektiv-beskyttelse-i-norge/id3055194/) коллективную защиту жителям безопасных регионов. Таковыми на данный момент являются:
+    - Львовская
+    - Волынская
+    - Закарпатская
+    - Ивано-Франковская
+    - Тернопольская
+    - Ровненская
+    области. Если вы житель безопасных регионов, то ваше заявление будет рассмотрено [:octicons-arrow-right-24: как заявление о убежище (индивидуальной защите)](#individuell-beskyttelse). Данна мера __НЕ КАСАЕТСЯ__ уже получивших коллективную защиту. Также исключения могут делаться для близких родственников-жителей безопасных регионов (супруг/сожитель, ребенок до 18 лет).
+
+
+
 
 
 ??? question "Принимает ли Норвегия беженцев из Украины?"
@@ -59,6 +69,10 @@
     Если вы не имеете право на получение коллективной защиты, ваше заявление будет рассматриваться в [:octicons-arrow-right-24: как заявление о убежище (индивидуальной защите)](#individuell-beskyttelse).
   
     Если вы подаете заявление о получении защиты в Норвегии и относитесь к числу тех, [кто может получить коллективную защиту](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164), то UDI рассмотрит ваше заявление о получении коллективной защиты.
+
+??? question "Повторное получение коллективной защиты"
+
+    С 01.07.24 Норвегия больше [не предоставляет](https://www.regjeringen.no/no/dokumenter/g-052024-ikrafttredelse-av-endringer-i-utlendingsforskriften-7-5-a-avgrensning-av-personkretsen-som-omfattes-av-ordningen-med-midlertidig-kollektiv-beskyttelse-for-fordrevne-fra-ukraina/id3041388/) коллективную защиту повторно, даже при условии выполнения критериев. Соответственно, если Вами ранее была получена защита в Норвегии и она была отозвана или не продлена - критерии описанные ниже к вам не относятся и ваше заявление будет рассмотрено [:octicons-arrow-right-24: как заявление о убежище (индивидуальной защите)](#individuell-beskyttelse)
 
 ??? question "Могу ли я остаться в Норвегии, когда война закончится?"
 
