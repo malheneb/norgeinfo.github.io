@@ -12,7 +12,7 @@ hide:
 - [Інформація про навчання в Норвегії (Study in Norway)](https://studyinnorway.no/) <small>(англійською)</small>
 - [Перелік державних університетів та університетських коледжів (regjeringen.no)](https://www.regjeringen.no/en/dep/kd/organisation/kunnskapsdepartementets-etater-og-virksomheter/Subordinate-agencies-2/state-run-universities-and-university-co/id434505/) <small>(англійською)</small>
 - [Огляд освіти та професій у Норвегії (utdanning.no)](https://utdanning.no/) <small>(норвезькою)</small> 
-- [Біженці з України мають право на кредити та гранти (Lanekassen)](https://lanekassen.no/en-US/presse-og-samfunnskontakt/nyheter/refugees-from-ukraine-eligible-for-loans-and-grants/) <small>(англійською)</small>
+- [Біженці з України мають право на кредити та гранти (Lånekassen)](https://lanekassen.no/en-US/presse-og-samfunnskontakt/nyheter/refugees-from-ukraine-eligible-for-loans-and-grants/) <small>(англійською)</small>
 
 ## Інше
 

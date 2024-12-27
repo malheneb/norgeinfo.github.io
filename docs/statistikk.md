@@ -19,6 +19,12 @@
     - __Antall personer kommunen har avtalt å bosette__: Общее количество беженцев о которых коммуна договорилась с IMDi о поселении (но еще не расселены)
     - __Antall personer med kollektiv beskyttelse kommunen har avtalt å bosette__: Количество беженцев с коллективной защитой о которых коммуна договорилась с IMDi о поселении (: означает число скрыто)
 
+??? question "Статистика по занятости украинских беженцев (мигрантов после 24.02.22)"
+    
+    [Ссылка на статью с постоянными обновлениями](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn/artikler/hvor-mange-ukrainere-jobber-i-norge/) <small>(норв.)</small> 
+
+    Учтите, что статистика трудоустройства собирается также NAV и показатели могут отличаться. Подробнее об этом можно прочесть [здесь](https://www.ssb.no/arbeid-og-lonn/sysselsetting/artikler/hvorfor-ulike-arbeidsledighetstall).
+
 ??? question "Статистическое бюро Норвегии (SSB)"
 
     Статистическое бюро Норвегии (SSB) является основным органом, отвечающим за подготовку и распространение официальной статистики в Норвегии.
