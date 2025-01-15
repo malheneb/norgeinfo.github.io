@@ -2,9 +2,17 @@
 
 !!! warning "Получение коллективной защиты жителями безопасных областей"
 
-    __Внимание!__ С 28.09.24 Норвегия больше [не предоставляет](https://www.regjeringen.no/no/aktuelt/regjeringen-endrer-reglene-farre-ukrainere-vil-fa-kollektiv-beskyttelse-i-norge/id3055194/) коллективную защиту жителям безопасных регионов. Таковыми на данный момент являются:
-
+    __Внимание!__ С 13.01.25 Норвегия больше [не предоставляет](https://udi.no/uk/important-messages/more-areas-excluded-from-the-right-to-collective-protection/) коллективную защиту жителям регионов, которые считаются безопасными. Таковыми на данный момент являются:
+    
+    - Черкасская
+    - Черновицкая
+    - Хмельницкая
+    - Кировоградская
+    - Киевская (область, не город)
     - Львовская
+    - Полтавская
+    - Винницкая
+    - Житомирская
     - Волынская 
     - Закарпатская
     - Ивано-Франковская
@@ -13,7 +21,7 @@
 
     области. Если вы житель безопасных регионов, то ваше заявление будет рассмотрено [:octicons-arrow-right-24: как заявление о убежище (индивидуальной защите)](#individuell-beskyttelse). Данна мера [__НЕ КАСАЕТСЯ__](https://udi.no/uk/information-ukraine-and-russia/ukraine/apply-for-protection/i-am-in-norway-applying-from-norway/#link-36410) уже получивших коллективную защиту. Также исключения могут делаться для близких родственников-жителей безопасных регионов (супруг/сожитель, ребенок до 18 лет, иной член домохозяйства на момент 24.02.2022).
 
-    Подробнее о изменениях можно прочесть [на сайте UDI](https://udi.no/uk/information-ukraine-and-russia/ukraine/apply-for-protection/i-am-in-norway-applying-from-norway/#link-34935)
+    Подробнее о изменениях можно прочесть [на сайте UDI](https://udi.no/uk/important-messages/more-areas-excluded-from-the-right-to-collective-protection/)
 
 
 
