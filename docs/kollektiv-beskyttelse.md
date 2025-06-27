@@ -246,7 +246,7 @@ __Выберите пункт отправления__ :material-arrow-down-circ
     Этот автобус ходит нечасто, и не является основным видом транспорта от аэропорта (особенно если у вас много багажа). Возможно, вам будет более актуально иные варианты, предложенные ниже.  
 
      - __Номер автобуса__: 400 (# Ruter)
-     - __Цена__: Бесплатно при [наличии паспорта Украины](https://ruter.no/nyheter/gratis-reiser-for-asylsokere/) (уточняйте информацию по ссылке). 
+     - __Цена__: от 129 крон. 
     - __Расписание и платформа отправления__: Cайт [https://ruter.no](https://ruter.no/reiseplanlegger/?departures=true&departureStop=%7B%22id%22%3A%22NSR%3AStopPlace%3A58211%22%2C%22name%22%3A%22Oslo+lufthavn%22%2C%22county%22%3A%22Viken%22%2C%22locality%22%3A%22Ullensaker%22%2C%22coordinates%22%3A%7B%22x%22%3A11.097887%2C%22y%22%3A60.193361%7D%2C%22category%22%3A%5B%22airport%22%2C%22busStation%22%2C%22onstreetBus%22%2C%22railStation%22%5D%7D) (нужно выбрать автобус номер 400 в списке)
     - __Время в пути__: Примерно 1 час и 19 минут.
     - __Нужно выйти на остановке__: Oslo bussterminal
