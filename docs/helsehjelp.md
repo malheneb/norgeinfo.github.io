@@ -19,5 +19,3 @@ Helsenorge.no є державним веб-сайтом для жителів Н
 - [Надання медичної допомоги шукачам притулку та біженцям у Норвегії (Helsenorge)](https://www.helsenorge.no/uk/utlendinger-i-norge/helsehjelp-for-asylsokere-og-flyktninger-i-norge/)
 
 - [Медевакуація до Норвегії. Інформація від Норвезького національного координаційного центру медевакуації](https://www.oslo-universitetssykehus.no/avdelinger/direktorens-stab/stab-virksomhetsstyring/stab-medisin-helsefag-og-beredskap/beredskap/medevac/informasjon-pa-ukrainsk/)
-
-- [Обстеження на туберкульоз (ТБ) після прибуття до Норвегії](https://www.helsenorge.no/uk/utlendinger-i-norge/helsehjelp-for-asylsokere-og-flyktninger-i-norge/ny-i-norge/#%D0%BE%D0%B1%D1%81%D1%82%D0%B5%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BD%D0%B0-%D1%82%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D1%8C%D0%BE%D0%B7)
