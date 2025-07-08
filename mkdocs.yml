@@ -1,7 +1,5 @@
 site_name: NorgeINFO 🇺🇦 🇳🇴
 theme:
-  font:
-    text: Montserrat
   name: material
   palette:
       primary: custom
@@ -12,18 +10,16 @@ theme:
     - navigation.sections
     - navigation.footer
     - navigation.top
-    - content.tooltips
     - navigation.path
-
+    - content.tooltips
+  font:
+    text: Montserrat
   icon:
     annotation: material/chevron-down-circle
     logo: material/information-box
-
+    
 extra_css:
   - assets/stylesheets/extra.css
-
-extra_javascript:
-  - assets/js/hamburger.js
 
 plugins:
   - include-markdown
@@ -47,8 +43,7 @@ markdown_extensions:
 - pymdownx.snippets:
       auto_append:
         - includes/links.md
-copyright: Слава Україні!!
-
+copyright: Слава Україні!
 
 nav:
     - Заглавная: index.md
