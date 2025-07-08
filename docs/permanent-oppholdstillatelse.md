@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Разрешение на постоянное пребывание (ПМЖ)
+# :material-passport:{ .lg .middle} Разрешение на постоянное пребывание (ПМЖ)
 
 __Дает ли коллективная защита право на получения разрешение на постоянное пребывание?__
 
@@ -37,9 +37,4 @@ __См. также информацию от UDI__:
 > 
 > Официальные сайты Норвегии
 > 
-> - [Що означає те, що колективний захист не дає підстав для отримання дозволу на постійне проживання? (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/what-does-it-mean-that-collective-protection-does-not-form-the-basis-for-permanent-residence/#link-30197) 
-
-
----
-
-[Вернуться к оглавлению](index.md){ .md-button .md-button--primary }
+> - [Що означає те, що колективний захист не дає підстав для отримання дозволу на постійне проживання? (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/what-does-it-mean-that-collective-protection-does-not-form-the-basis-for-permanent-residence/#link-30197)

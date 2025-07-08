@@ -20,6 +20,3 @@ hide:
 - [Система освіти у Норвегії від раннього дитинства до юнацтва: Інформація для новоприбулих батьків та опікунів (Udir)](https://www.udir.no/contentassets/b54ac3a95899409e8629a9f3606d4408/ukrainsk---informasjon-om-barnehage-og-opplaring-i-norge.pdf)
 - [Середня загальноосвітня школа в Норвегії (norsmal.no)](https://morsmal.no/uk/informasjonshefte-om-norsk-grunnskole/)
 
----
-
-[Повернуться на головну сторінку](index.md){ .md-button .md-button--primary }

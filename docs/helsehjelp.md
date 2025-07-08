@@ -1,6 +1,6 @@
 # :material-hospital-box:{ .lg .middle } Медична допомога { #helsehjelp }
 
-??? question "Важливі номери телефонів"
+## Важливі номери телефонів
 
     __Екстрена швидка допомога (ambulanse) :fontawesome-solid-phone-volume: 110__
 
@@ -12,13 +12,12 @@
     
     Якщо ви або хтось із вашої сім'ї захворів, і це сталося ввечері або у вихідні дні і ви не можете звернутися до іншого лікаря, ви можете звернутися до відділення чергової медичної служби. Номер телефону відділення чергової медичної служби в Норвегії (legevakt): __116 117__
 
-
-??? question "Більше інформації щодо медичної допомоги"
+## Більше інформації щодо медичної допомоги
 
     Helsenorge.no є державним веб-сайтом для жителів Норвегії стосовно питань, пов'язаних зі здоров'ям та медициною. Зміст надається різними структурами сектору охорони здоров'я.
 
     - [Надання медичної допомоги шукачам притулку та біженцям у Норвегії (Helsenorge)](https://www.helsenorge.no/uk/utlendinger-i-norge/helsehjelp-for-asylsokere-og-flyktninger-i-norge/)
 
-    - [Переведення для проходження лікування у шпиталі в Норвегії](https://www.helsenorge.no/uk/utlendinger-i-norge/helsehjelp-for-asylsokere-og-flyktninger-i-norge/overforing-til-sykehus-i-norge/)
+    - [Медевакуація до Норвегії. Інформація від Норвезького національного координаційного центру медевакуації](https://www.oslo-universitetssykehus.no/avdelinger/direktorens-stab/stab-virksomhetsstyring/stab-medisin-helsefag-og-beredskap/beredskap/medevac/informasjon-pa-ukrainsk/)
 
     - [Обстеження на туберкульоз (ТБ) після прибуття до Норвегії](https://www.helsenorge.no/uk/utlendinger-i-norge/helsehjelp-for-asylsokere-og-flyktninger-i-norge/ny-i-norge/#%D0%BE%D0%B1%D1%81%D1%82%D0%B5%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BD%D0%B0-%D1%82%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D1%8C%D0%BE%D0%B7)

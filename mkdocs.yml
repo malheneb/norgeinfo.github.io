@@ -10,9 +10,11 @@ theme:
   features:
     - navigation.tracking
     - navigation.sections
+    - navigation.footer
     - navigation.top
     - content.tooltips
     - navigation.path
+
   icon:
     annotation: material/chevron-down-circle
     logo: material/information-box
@@ -20,14 +22,12 @@ theme:
 extra_css:
   - assets/stylesheets/extra.css
 
+extra_javascript:
+  - assets/js/hamburger.js
+
 plugins:
   - include-markdown
   - glightbox
-  - redirects:
-      redirect_maps:
-        'jobb.md': 'arbeid.md'
-  - git-revision-date-localized:
-      locale: uk  
 
 markdown_extensions:
 - footnotes
@@ -48,3 +48,25 @@ markdown_extensions:
       auto_append:
         - includes/links.md
 copyright: Слава Україні!!
+
+
+nav:
+    - Заглавная: index.md
+    - Офіційні державні сайти Норвегії: links.md
+    - Защита:
+        - Временная коллективная защита: kollektiv-beskyttelse.md
+        - Индивидуальная защита (убежище/asylum): individuell-beskyttelse.md
+        - Документы, выдаваемые Норвегией: dokumenter.md
+        - Соглашение о родительской ответственности: avtale-om-foreldreansvar.md
+    - Домашні тварини з України: kjaeledyr.md
+    - Жилье и временное размещение: bolig.md
+    - Пособия и выплаты: stotte.md
+    - Інтродукційна (ознайомча) програма: introduksjonsprogram.md
+    - Автомобили и транспортные средства: forerkort-og-bil.md
+    - Робота в Норвегії: arbeid.md
+    - Освіта: utdanning.md
+    - Медична допомога: helsehjelp.md
+    - Статистика: statistikk.md
+    - Хочу задать вопрос: kontakt.md
+    - Разрешение на постоянное пребывание: permanent-oppholdstillatelse.md
+    - Повідомити про помилку: tilbakemelding.md
