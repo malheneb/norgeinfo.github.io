@@ -3,10 +3,6 @@ hide:
   - toc
 ---
 
-# Повідомити про помилку
-
----
-
 <form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/f/mgvwbdwe" method="POST">
   <fieldset id="fs-frm-inputs">
     <label for="complaint">Напишіть нам про помилку на сайті:</label>
@@ -86,9 +82,3 @@ hide:
   margin-bottom: 0;
 }
 </style>
-
-
-
----
-
-[Повернутися на головну сторінку](index.md){ .md-button .md-button--primary }
