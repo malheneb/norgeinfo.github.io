@@ -10,8 +10,6 @@ theme:
   features:
     - navigation.tracking
     - navigation.sections
-    - search.suggest
-    - search.share
     - navigation.top
     - content.tooltips
     - navigation.path
@@ -28,10 +26,6 @@ plugins:
   - redirects:
       redirect_maps:
         'jobb.md': 'arbeid.md'
-  - search:
-      lang: 
-        - ru
-        - en
   - git-revision-date-localized:
       locale: uk  
 
