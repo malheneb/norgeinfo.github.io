@@ -44,7 +44,7 @@ html .md-footer-meta.md-typeset a {
   font-weight: 400
 }
 article a[href^="http"]::after,article a[href^="https: //"]::after{
-  content: "";
+  content: none;
   width: 14px;
   height: 14px;
   margin-left: 4px;
