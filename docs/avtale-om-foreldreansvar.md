@@ -7,6 +7,9 @@ hide:
 
 # :material-human-male-child:{ .lg .middle } Реєстрація батьківської відповідальності
 
+Оригінальний текст: Дід
+Перекладач: Oksana B.
+
 ## Навіщо потрібна реєстрація батьківської відповідальності?
 
 У Норвегії Ви повинні мати офіційно зареєстровану батьківську відповідальність ([_foreldreansvar_](https://www.skatteetaten.no/person/folkeregister/fodsel-og-navnevalg/barn-fodt-i-utlandet/foreldreansvar-for-barn-fodt-i-utlandet/)). Це надає Вам право приймати важливі рішення за Вашу дитину.
