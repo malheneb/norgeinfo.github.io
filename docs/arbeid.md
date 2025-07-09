@@ -14,7 +14,7 @@
 
 [Праця і податки в Норвегії: Оформити податкову картку](https://www.skatteetaten.no/en/person/taxes/tax-deduction-card-and-advance-tax/) <small>(англійською)</small>
 
-[Інформаційні фільми про податкову декларацію, податковий розрахунок та систему спрощеного оподаткування заробітної плати (Skatteetaten)](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/skattemeldingen/film_no/film_ua1/)
+[Інформація для іноземних працівників українською мовою про податки в Норвегії, переїзд та ідентифікаційний номер (Skatteetaten)](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/film_no/film_ua1/)
 
 ## Пошук роботи: інформаційні ресурси
 
@@ -25,7 +25,7 @@
 
 - [Інформація про роботу в Норвегії для українських біженців (NAV)](https://arbeidsplassen.nav.no/uk/work-in-norway) 
 - [Робота в Норвегії: ваші права та обов'язки (Інспекція праці - Arbeidstilsynet)](https://www.arbeidstilsynet.no/en/working-conditions/knowyourrights-UK/) 
-- [ Плануєте працювати в Норвегії? Ось що вам слід знати (frifagbevegelse.no)](https://frifagbevegelse.no/foreign-workers/ for-ukrainians-13-things-you-should-know-about-working-in-norway-6.539.870725.5e6da28df3) 
+- [ Плануєте працювати в Норвегії? Ось що вам слід знати (frifagbevegelse.no)](https://frifagbevegelse.no/foreign-workers/for-ukrainians-13-things-you-should-know-about-working-in-norway-6.539.870725.5e6da28df3) 
 - [Робота в Норвегії (Національна профспілка - LO)](https://www.lo.no/language/ukrainsk/) 
 
 ## Визнання професії

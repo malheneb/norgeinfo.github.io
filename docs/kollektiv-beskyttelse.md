@@ -1,15 +1,10 @@
+[TOC]
 
 !!! warning "Норвезький уряд визнал ще декілька областей України безпечними і особи, які там проживають не зможуть більше отримати колективний захист"
-
 
     :octicons-arrow-right-24: [Директорат у справах іноземців (UDI) зробив нову оцінку безпекової ситуації в Україні, і з 13 січня 2025 року визнав ще кілька областей безпечними.](https://www.udi.no/uk/important-messages/more-areas-excluded-from-the-right-to-collective-protection/)
     
 ## Запитання та відповіді: Колективний захист українців у Норвегії { #om-kollektiv-beskyttelse }
-
-??? question "Принимает ли Норвегия беженцев из Украины?"
-
-    Да, Норвегия принимает на данный момент беженцев из Украины по [программе временной коллективной защите](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/).
-
 
 ??? question "Что такое коллективная защита?" 
 
@@ -19,14 +14,12 @@
     
     Коллективная защита не является основанием для получения [:octicons-arrow-right-24: разрешения на постоянное проживание (ПМЖ)](permanent-oppholdstillatelse.md). Закон позволяет предоставление временного разрешения, которое может стать основанием для ПМЖ по истечении срока действия коллективной защиты. Однако решение, будет ли применено это положение закона, принимает правительство. 
 
-
 ??? question "Хто має право на колективний захист? На кого не поширюється колективний захист?"
 
-    [Хто має право на колективний захист?](https://udi.no/uk/information-ukraine-and-russia/ukraine/apply-for-protection/i-am-in-norway-applying-from-norway/#link-34934)
+    - [Хто має право на колективний захист?](https://udi.no/uk/information-ukraine-and-russia/ukraine/apply-for-protection/i-am-in-norway-applying-from-norway/#link-34934)
 
 
-    [На кого не поширюється колективний захист?](https://udi.no/uk/information-ukraine-and-russia/ukraine/apply-for-protection/i-am-in-norway-applying-from-norway/#link-34935)
-
+    - [На кого не поширюється колективний захист?](https://www.udi.no/uk/information-ukraine-and-russia/ukraine/apply-for-protection/i-am-in-norway-applying-from-norway/#link-34935)
 
 ??? question "Могу ли я получить коллективную защиту, если у меня есть разрешение на проживание в иной европейской стране?"
 
@@ -44,7 +37,7 @@
 
 ??? question "Повторное получение коллективной защиты"
 
-    С 01.07.24 Норвегия больше [не предоставляет](https://www.regjeringen.no/no/dokumenter/g-052024-ikrafttredelse-av-endringer-i-utlendingsforskriften-7-5-a-avgrensning-av-personkretsen-som-omfattes-av-ordningen-med-midlertidig-kollektiv-beskyttelse-for-fordrevne-fra-ukraina/id3041388/) коллективную защиту повторно, даже при условии выполнения критериев. Соответственно, если Вами ранее была получена защита в Норвегии и она была отозвана или не продлена - критерии описанные ниже к вам не относятся и ваше заявление будет рассмотрено [:octicons-arrow-right-24: как заявление о убежище (индивидуальной защите)](individuell-beskyttelse.md)
+    [С 01.07.24 Норвегия больше не предоставляет коллективную защиту повторно](https://www.udi.no/uk/information-ukraine-and-russia/ukraine/i-have-received-an-answer-to-my-application/my-application-for-collective-protection-has-been-granted/#link-34988), даже при условии выполнения критериев. Соответственно, если Вами ранее была получена защита в Норвегии и она была отозвана или не продлена - критерии описанные ниже к вам не относятся и ваше заявление будет рассмотрено [:octicons-arrow-right-24: как заявление о убежище (индивидуальной защите)](individuell-beskyttelse.md)
 
 ??? question "Могу ли я остаться в Норвегии, когда война закончится?"
 
@@ -75,7 +68,7 @@
 
     __Поселение__
 
-    [Информация про поселение несопровождаемых несовершеннолетних можно найти на сайте Директората по вопросам интеграции и культурно-этнического разнообразия (_Integrerings- og mangfoldsdirektoratet – IMDi_)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/enslige-mindrearige-flyktninger/).
+    [Информация про поселение несопровождаемых несовершеннолетних можно найти на сайте Директората по вопросам интеграции и культурно-этнического разнообразия (_Integrerings- og mangfoldsdirektoratet – IMDi_)](https://www.imdi.no/bosetting/slik-bosettes-flyktninger/enslige-mindrearige/).
 
 
     __Источники__ :material-book-outline:
@@ -85,8 +78,8 @@
     - [Неповнолітні шукачі притулку з України без супроводу батьків (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/unaccompanied-minor-asylum-seekers-from-ukraine/)
     - [Representanter for enslige mindreårige asylsøkere (UDI)](https://udi.no/word-definitions/representatives-for-unaccompanied-minor-asylum-seekers/)
     - [Flyktninger og asylsøkere: Enslige mindreårige asylsøkere (Statsforvalteren)](https://www.statsforvalteren.no/nb/portal/Folk-og-samfunn/flyktninger-og-asylsokere/)
-    - [Informasjon til deg som har fått oppnevnt representant (Statsforvalteren)](https://www.statsforvalteren.no/nb/oslo-og-viken/vergemal/vergemal-for-barn/representantordningen/informasjon-til-deg-som-har-fatt-oppnevnt-representant/)
-    - [Bosetting av enslige mindreårige flyktninger (IMDi)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/enslige-mindrearige-flyktninger/)
+    - [Informasjon til deg som har fått oppnevnt representant (Statsforvalteren)](https://www.statsforvalteren.no/ostfold-buskerud-oslo-og-akershus/vergemal/vergemal-for-barn/representantordningen/informasjon-til-deg-som-har-fatt-oppnevnt-representant/)
+    - [Bosetting av enslige mindreårige flyktninger (IMDi)](https://www.imdi.no/bosetting/slik-bosettes-flyktninger/enslige-mindrearige/)
 
 ??? question "Источники раздела "Коллективная защита украинцев в Норвегии" :material-book-outline:"
     
@@ -100,7 +93,7 @@
     
     - [Бажаєте подати заявy на отримання захисту (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/)
     - [Що означає те, що колективний захист не дає підстав для отримання дозволу на постійне проживання?]
-    - [Що станеться якщо я хочу приїхати до Норвегії, але вже подав заявку про отримання захисту або маю дозвіл на проживання в іншій європейській країні? (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/travel-to-norway/#link-30069)
+    - [Що станеться якщо я хочу приїхати до Норвегії, але вже подав заявку про отримання захисту або маю дозвіл на проживання в іншій європейській країні? (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/ukraine/apply-for-protection/travel-to-norway-applying-from-outside-norway/#link-34948)
 
 ## Подача заявления о получении коллективной защиты { #registrering }
 
@@ -112,7 +105,7 @@
 
     Если вас нет действующего биометрического загранпаспорта, у вас могут быть проблемы по пути следования до Норвегии, а также практические проблемы и неудобства внутри Норвегии, таких как открытия полноценного банковского счета и использование электронных государственных услуг. По этим причинам рекомендуется иметь биометрический загранпаспорт.
 
-    [Смотрите также информацию о въезде в Норвегию на сайте Директората по делам иностранцев (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/travel-to-norway/#link-30130).
+    [Смотрите также информацию о въезде в Норвегию на сайте Директората по делам иностранцев (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/ukraine/apply-for-protection/travel-to-norway-applying-from-outside-norway/).
 
 
 ??? question "У мене немає житла, і я хочу подати заявку на колективний захист"
@@ -152,13 +145,13 @@
 
     - [Інформація для громадян України, які прибувають до Норвегії, щодо реєстрації в поліції для подання заяви про колективний захист (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/)
 
-    - [Прибуття до Норвегії (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/arrival-in-norway/)
+    - [Я в Норвегії / подати заявку з Норвегії (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/ukraine/apply-for-protection/i-am-in-norway-applying-from-norway/)
 
 ??? question "У мене є житло. Приватне проживання до і після реєстрації"
 
     Якщо ви проживаєте і надалі будете проживати приватно, та ви відповідаєте вимогам тимчасового колективного захисту в Норвегії, ви __могли__ зареєструвати вашу заявку на отримання захисту в шістьох різних пунктах реєстрації по всій Норвегії. Починаючи з 15.07.2024 ви можете зареєструватись виключно в Råde або [центрі реєстрації Gardermoen](https://kart.1881.no/ullensaker/2060-gardermoen/roald-amundsens-veg-1) (цей пункт займається реєстрацією виключно тих, хто не має потреби у житлі.)
 
-    Актуальна інформація викладена [сайті Поліції Норвегії](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge) <small>(норвезькою)</small>.
+    Актуальна інформація викладена [сайті Поліції Норвегії](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/)
 
     Якщо пізніше ви захочете отримати місце в притулку для біженців, ви повинні спочатку поїхати до національного центру реєстрації.
 
@@ -180,8 +173,8 @@
      
     Официальные сайты
      
-    - [Запитання та відповіді про захист (притулок) та проживання у притулку для біженців в Норвегії (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers)
-    - [Прибуття до Норвегії (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/arrival-in-norway/)
+    - [Притулок для біженців (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/ukraine/waiting-for-a-decision/asylum-reception-centres/)
+    [Я в Норвегії / подати заявку з Норвегії (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/ukraine/apply-for-protection/i-am-in-norway-applying-from-norway/)
     - [Slik søker ukrainske borgere kollektiv beskyttelse i Norge (Politiet)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge)
     - [Питання та відповіді. Як відбувається реєстрація, та що робити після проходження реєстрації (Politiet)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
 
@@ -205,11 +198,11 @@ __Выберите пункт отправления__ :material-arrow-down-circ
 
     Этот автобус ходит нечасто, и не является основным видом транспорта от аэропорта (особенно если у вас много багажа). Возможно, вам будет более актуально иные варианты, предложенные ниже. 
     
-    Ранее траспорт Ruter был бесплатным для всех граждан Украины, но c [1 июля 2025г. право бесплатного проезда распространяется только для соискателей убежища](https://www.mynewsdesk.com/no/ruter/pressreleases/ny-ordning-for-gratis-kollektivreiser-for-asylsoekere-3393893)(т.е. обладателей валидной жёлтой карты) и только для Зоны 1 в Осло [(карта зон)](https://ruter.no/om-vare-billetter/soner-og-sonekart). 
+    __ВАЖНО!__ Ранее траспорт Ruter был бесплатным для всех граждан Украины, но c [1 июля 2025г. право бесплатного проезда распространяется только для соискателей убежища](https://aktuelt.oslo.kommune.no/ny-ordning-for-gratis-kollektivreiser-for-asylsokere)(т.е. обладателей валидной жёлтой карты) и только для Зоны 1 в Осло [(карта зон)](https://ruter.no/om-vare-billetter/soner-og-sonekart). 
 
      - __Номер автобуса__: 400 (# Ruter)
      - __Цена__: от 129 крон. 
-    - __Расписание и платформа отправления__: Cайт [https://ruter.no](https://ruter.no/reiseplanlegger/?departures=true&departureStop=%7B%22id%22%3A%22NSR%3AStopPlace%3A58211%22%2C%22name%22%3A%22Oslo+lufthavn%22%2C%22county%22%3A%22Viken%22%2C%22locality%22%3A%22Ullensaker%22%2C%22coordinates%22%3A%7B%22x%22%3A11.097887%2C%22y%22%3A60.193361%7D%2C%22category%22%3A%5B%22airport%22%2C%22busStation%22%2C%22onstreetBus%22%2C%22railStation%22%5D%7D) (нужно выбрать автобус номер 400 в списке)
+    - __Расписание и платформа отправления__: Cайт [https://reise.ruter.no/](https://reise.ruter.no/) 
     - __Время в пути__: Примерно 1 час и 19 минут.
     - __Нужно выйти на остановке__: Oslo bussterminal
 
@@ -310,6 +303,5 @@ __Выберите пункт отправления__ :material-arrow-down-circ
 
     - Используйте планировщик поездок [Entur](https://entur.no/). 
     - В поле _от_ введите _"Sandefjord lufthavn (Torp)"_ и в поле _до_ введите _"Jonsten E6"_ или _"Mosseveien 58, 1640 Råde"_ для составления машрута до регистрационного центра.
-
 
 <!-- :customs:{ .lg .middle} [:octicons-arrow-right-24: Митні правила](https://www.toll.no/en/travelling-to-and-from-norway/travel-to-norway/) <small>(англійською)</small> -->

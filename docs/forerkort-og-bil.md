@@ -30,7 +30,7 @@ __Бесплатная страховка (1 месяц)__
 
     - [Таможня Норвегии (Toll). Важная информация для беженцев из Украины.](https://www.toll.no/no/bedrift/nyheter-for-naeringslivet/viktig-informasjon-til-flyktninger-fra-ukraina) <small>(норвезькою)</small> 
 
-    - [Информация про пограничную страховку (Trafikkforsikringsforeningen)](https://www.tff.no/temasider/grenseforsikring2/) <small>(норвезькою)</small> 
+    - [Информация про пограничную страховку (Trafikkforsikringsforeningen)](https://www.tff.no/tema/grenseforsikring/) <small>(норвезькою)</small> 
 
 > :material-book-outline: __Источники__
 > 

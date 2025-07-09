@@ -96,9 +96,9 @@ __Договорное самопоселение это система, пре�
 ## Источники раздела "Жилье и временное размещение" :material-book-outline:
     
 Официальные сайты Норвегии
-    
+
+- [Bosetting (imdi.no)](https://www.imdi.no/bosetting/)   
 - [Поселение семьи и одиноких взрослых в mottak (imdi.no)](https://www.imdi.no/bosetting/tildeling-av-kommune/bofellesskap-for-enslige-voksne-flyktninger/)
-- [Вам надано колективний захист. Поселення (udi.no)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/received-an-answer/#link-30304)
 - [Поселення українців, які отримали тимчасовий колективний захист](https://udi.no/globalassets/ukrainasituasjonen-inkl-russlandinfo/ukr---bosetting-for-ukrainere-som-har-fatt-kollektiv-beskyttelse.pdf)
 - [Поселение беженцев, самостоятельно нашедших жилье (imdi.no)](https://www.imdi.no/planlegging-og-bosetting/bosettingsprosessen/selvbosetting/)
 - [Пример процесса avtalt selvbosetting в Stavanger Kommune](https://www.stavanger.kommune.no/uk-ua/sosialtjenester/flyktningtjenesten-i-stavanger/----/)

@@ -2,7 +2,7 @@
 
 !!! warning "Домашні тварини у притулках для біженців"
 
-    __Увага!__ З 15.02.24 у новоприбулих осіб, які привезли домашніх тварин з-за кордону, не буде можливості проживати із домашніми тваринами в притулках для біженців. Тому у вас не буде можливості проживати із домашніми тваринами в Національному центрі реєстрації та притулках для біженців"
+    __Увага!__ [З 15.02.24 у новоприбулих осіб, які привезли домашніх тварин з-за кордону, не буде можливості проживати із домашніми тваринами в притулках для біженців. Тому у вас не буде можливості проживати із домашніми тваринами в Національному центрі реєстрації та притулках для біженців](https://www.udi.no/uk/information-ukraine-and-russia/ukraine/apply-for-protection/travel-to-norway-applying-from-outside-norway/#link-34949)
 
 ## Вимоги щодо ввезення домашніх тварин
 
@@ -10,11 +10,9 @@
 
 - [Вимоги щодо ввезення домашніх тварин з України](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/kjaeledyr-fra-ukraina/informasjon-til-flyktninger-som-reiser-med-kjaeledyr-fra-ukraina)
 
-- [Вимоги щодо ввезення домашніх тварин з Європейського союзу / ЄЕЗ](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/reise-med-hund-katt-eller-ilder-fra-eu-eos) <small>(норвезькою)</small> 
+- [Вимоги щодо ввезення домашніх тварин з Європейського союзу / ЄЕЗ](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr) <small>(норвезькою)</small> 
 
-Інформацію про правила ввезення до Норвегії екзотичних домашніх тварин ви знайдете на веб-сайті Управління з охорони навколишнього середовища (Miljødirektoratet):
-
-- [Інформація для українських біженців, які привозять екзотичних домашніх тварин (Miljødirektoratet)](https://dev.environmentagency.no/information-to-ukrainian-refugees-bringing-their-exotic-pets-to-norway)
+- Інформацію про правила ввезення до Норвегії екзотичних домашніх тварин: [Travelling to Norway with exotic animals](https://www.mattilsynet.no/en/animals/travelling-to-norway-with-exotic-animals)
 
 Домашні тварини, які прибувають до Норвегії і не відповідають вимогам щодо здоров'я тварин, повинні або перебувати в карантині, який оплачує власник, або повернутися безпосередньо до України або будуть піддані евтаназії (усипляння) .
 
@@ -55,6 +53,5 @@ __Якщо у вас є питання про ввезення тварин до
 Офіційні державні сайти
 
 - [Вимоги щодо ввезення домашніх тварин з України (Mattilsynet)](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/kjaeledyr-fra-ukraina/informasjon-til-flyktninger-som-reiser-med-kjaeledyr-fra-ukraina#kap-2-------)
-- [Вимоги щодо ввезення домашніх тварин з Європейського союзу / Європейської економічної зони](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/reise-med-hund-katt-eller-ilder-fra-eu-eos)
+- [Вимоги щодо ввезення домашніх тварин з Європейського союзу / Європейської економічної зони](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr)
 - [Заборонені собаки та породи собак (Mattilsynet)](https://www.mattilsynet.no/dyr/kjaeledyr/hund/forbudte-hunder-og-hunderaser)
-- [Інформація для українських біженців, які привозять екзотичних домашніх тварин (Miljødirektoratet)](https://dev.environmentagency.no/information-to-ukrainian-refugees-bringing-their-exotic-pets-to-norway)

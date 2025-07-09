@@ -16,7 +16,7 @@ hide:
 
 ## Інше
 
-- [Огляд системи освіти у Норвегії (utdanning.no)](https://utdanning.no/utdanningssystemet/en#/) <small>(англійською)</small>
+- [Огляд системи освіти у Норвегії (utdanning.no)](https://utdanning.no/utdanningssystemet/ukr#/)
 - [Система освіти у Норвегії від раннього дитинства до юнацтва: Інформація для новоприбулих батьків та опікунів (Udir)](https://www.udir.no/contentassets/b54ac3a95899409e8629a9f3606d4408/ukrainsk---informasjon-om-barnehage-og-opplaring-i-norge.pdf)
 - [Середня загальноосвітня школа в Норвегії (norsmal.no)](https://morsmal.no/uk/informasjonshefte-om-norsk-grunnskole/)
 
