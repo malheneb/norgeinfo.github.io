@@ -8,7 +8,7 @@
 
 Управління з безпеки харчових продуктів (норв. Mattilsynet) відповідає за перетин норвезького кордону тварин з метою запобігання поширенню смертельних захворювань, таких як сказ, серед людей та інших тварин у Норвегії. Детальна інформація шодо правил ввезення домашніх тварин представлена на веб-сайті _Норвезького управління з безпеки харчових продуктів (Mattilsynet)_:
 
-- [Вимоги щодо ввезення домашніх тварин з України](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/kjaeledyr-fra-ukraina/informasjon-til-flyktninger-som-reiser-med-kjaeledyr-fra-ukraina)
+- [Вимоги щодо ввезення домашніх тварин з України](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/kjaeledyr-fra-ukraina/informasjon-til-flyktninger-som-reiser-med-kjaeledyr-fra-ukraina#kap-2-------)
 
 - [Вимоги щодо ввезення домашніх тварин з Європейського союзу / ЄЕЗ](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr) <small>(норвезькою)</small> 
 
@@ -35,7 +35,7 @@
 
 __Якщо у вас є питання про ввезення тварин до Норвегії, запитайте у спеціалізованих групах__:
 
-- [:fontawesome-brands-telegram: Тварини у Норвегії Chat](https://t.me/LanaYelisieievaAnimalsChat)
+- [:fontawesome-brands-telegram: Тварини Норвегії Чат](https://t.me/jivotniivnorvegii/)
 
 - [:simple-facebook: Help for Ukrainian pet owners in Norway](https://www.facebook.com/groups/326059659447939/)
 

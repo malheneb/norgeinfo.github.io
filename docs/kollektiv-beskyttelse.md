@@ -269,9 +269,7 @@ __Выберите пункт отправления__ :material-arrow-down-circ
     
 ??? question "Аэропорт Torp Sandefjord"
     
-    Из аэропорта Torp до Råde путь сложный, долгий и дороже, с пересадкой в городе Осло.
-
-    > __Альтернативный машрут мимо Oslo__ (составлен Victoria E): [https://drive.google.com/file/d/16qpDlzeSqxmUr__kwD1SxNQVFIpURTQA/view](https://drive.google.com/file/d/16qpDlzeSqxmUr__kwD1SxNQVFIpURTQA/view)
+    Из аэропорта Torp до Råde путь сложный, долгий и дороже, с пересадкой в городе Осло.  
 
     :fontawesome-solid-bus-simple:  __Автобус Torpexpress до Осло__
 
