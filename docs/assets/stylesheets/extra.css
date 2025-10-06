@@ -1,12 +1,27 @@
+.md-typeset h1 {
+  color: black;
+  font-size: 18pt
+}
+
+.md-typeset h2 {
+  font-size: 16pt;
+}
+
+.md-typeset h3 {
+  font-size: 14pt;
+}
+
 h2 {
   margin: 4rem 0rem 2rem 0rem;
-  border-bottom: solid 1px rgb(29, 89, 153)
+  border-bottom: solid 1px rgb(29, 89, 153);
 }
+
 h3 {
   margin: 3rem 0rem 1rem 0rem;
   padding: 0rem 0rem 0.5rem 0.5rem;
-  border-left: solid 2px rgb(29, 89, 153)
+  border-left: solid 2px rgb(29, 89, 153);
 }
+
 :root {
   --md-primary-fg-color: #0057B7
 }
