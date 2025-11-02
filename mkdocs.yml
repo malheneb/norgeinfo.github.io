@@ -21,7 +21,8 @@ theme:
 extra_css:
   - assets/stylesheets/extra.css
 
-plugins: []
+plugins:
+  - git-revision-date-localized
 
 markdown_extensions:
 - footnotes
@@ -61,4 +62,4 @@ nav:
     - Хочу задать вопрос: kontakt.md
     - Разрешение на постоянное пребывание: permanent-oppholdstillatelse.md
     - Юридичні посилання: lover.md
-    - Повідомити про помилку: tilbakemelding.md
+    - Зворотній зв'язок: tilbakemelding.md

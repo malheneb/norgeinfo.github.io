@@ -5,7 +5,7 @@ hide:
 
 <form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/f/mgvwbdwe" method="POST">
   <fieldset id="fs-frm-inputs">
-    <label for="complaint">Напишіть нам про помилку на сайті:</label>
+    <label for="complaint">Для повідомлень про помилки та іншого зворотного зв'язку, використовуйте форму нижче:</label>
     <textarea rows="6" name="message" id="message" placeholder="" required autofocus maxlength='2500'></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Ошибка сайт">
   </fieldset>
