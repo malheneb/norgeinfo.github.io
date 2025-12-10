@@ -1,32 +1,32 @@
 # :fontawesome-solid-chart-pie:{ .lg .middle} Статистика { #statistikk }
 
-## Статистика по коллективной защите (UDI)
+## Статистика по колективному захисту (UDI)
 
-Включает в себя информацию о количестве Украинцев, подавших на коллективную защиту, и количество получивших коллективную защиту.
+Включає інформацію про кількість українців, які подали на колективний захист, та кількість тих, хто отримав колективний захист.
 
 [https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/) <small>(норвезькою)</small> 
 
-## Статистика по количеству расселенных беженцев (IMDI)
+## Статистика по кількості розселених біженців (IMDI)
 
 [https://www.imdi.no/planlegging-og-bosetting/bosettingstall/](https://www.imdi.no/planlegging-og-bosetting/bosettingstall/) <small>(норвезькою)</small> 
 
-__Пояснение к таблице на сайте IMDI (Fylke og kommunale bosettingstall)__
+__Пояснення до таблиці на сайті IMDI (Fylke og kommunale bosettingstall)__
     
-- __Antall personer kommunen har blitt anmodet om å bosette__: Общее количество беженцев которое государство (в лице IMDI) просит коммуну поселить в этом году.
-- __Antall personer kommunen har vedtatt å bosette__: Количество беженцев, которая коммуна приняла фактически (путем политического решения) поселить у себя.
-- __Antall bosatte personer__: Количество расселенных беженцев (здесь все беженцы, включая беженцев из Украины)
-- __Antall bosatte personer med kollektiv beskyttelse__: Количество расселенных беженцев с коллективной защитой
-- __Antall personer kommunen har avtalt å bosette__: Общее количество беженцев о которых коммуна договорилась с IMDi о поселении (но еще не расселены)
-- __Antall personer med kollektiv beskyttelse kommunen har avtalt å bosette__: Количество беженцев с коллективной защитой о которых коммуна договорилась с IMDi о поселении (: означает число скрыто)
+- __Antall personer kommunen har blitt anmodet om å bosette__: Загальна кількість біженців, яку держава (в особі IMDI) просить комуну поселити цього року.
+- __Antall personer kommunen har vedtatt å bosette__: Кількість біженців, яку комуна ухвалила фактично (шляхом політичного рішення) поселити в себе.
+- __Antall bosatte personer__: Кількість розселених біженців (тут усі біженці, включаючи біженців з України)
+- __Antall bosatte personer med kollektiv beskyttelse__: Кількість розселених біженців із колективним захистом
+- __Antall personer kommunen har avtalt å bosette__: Загальна кількість біженців, про яких комуна домовилася з IMDi про поселення (але ще не розселені)
+- __Antall personer med kollektiv beskyttelse kommunen har avtalt å bosette__: Кількість біженців із колективним захистом, про яких комуна домовилася з IMDi про поселення (: означає число приховано)
 
-## Статистика по занятости украинских беженцев (мигрантов после 24.02.22)
+## Статистика по зайнятості українських біженців (мігрантів після 24.02.22)
     
-[Ссылка на статью с постоянными обновлениями](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn/artikler/hvor-mange-ukrainere-jobber-i-norge/) <small>(норв.)</small> 
+[Посилання на статтю з постійними оновленнями](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn/artikler/hvor-mange-ukrainere-jobber-i-norge/) <small>(норв.)</small> 
 
-Учтите, что статистика трудоустройства собирается также NAV и показатели могут отличаться. Подробнее об этом можно прочесть [здесь](https://www.ssb.no/arbeid-og-lonn/sysselsetting/artikler/hvorfor-ulike-arbeidsledighetstall).
+Врахуйте, що статистика працевлаштування збирається також NAV, і показники можуть відрізнятися. Докладніше про це можна прочитати [тут](https://www.ssb.no/arbeid-og-lonn/sysselsetting/artikler/hvorfor-ulike-arbeidsledighetstall).
 
-## Статистическое бюро Норвегии (SSB)
+## Статистичне бюро Норвегії (SSB)
 
-Статистическое бюро Норвегии (SSB) является основным органом, отвечающим за подготовку и распространение официальной статистики в Норвегии.
+Статистичне бюро Норвегії (SSB) є основним органом, відповідальним за підготовку та розповсюдження офіційної статистики в Норвегії.
 
-Официальный сайт: [https://www.ssb.no/](https://www.ssb.no/)
+Офіційний сайт: [https://www.ssb.no/](https://www.ssb.no/)
