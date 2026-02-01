@@ -27,7 +27,7 @@
 
 Ставки економічної допомоги на другому етапі є __лише орієнтовними__. Комуни мають право або використовувати ставки, рекомендовані державою, або платити іншу суму (в менший чи більший бік). За першим посиланням нижче можна прочитати рекомендовані ставки, які діють на даний момент.
 
-- [Державні рекомендовані ставки для економічної допомоги на 2026 рік (regjeringen.no)](https://www.regjeringen.no/no/dokumenter/rundskriv-a-22024-statlege-rettleiande-retningslinjer-for-okonomisk-stonad-for-2025/id3080792/)  <small>(норвезькою)</small> 
+- [Державні рекомендовані ставки для економічної допомоги на 2026 рік (regjeringen.no)](https://www.regjeringen.no/no/dokumenter/postadressepostboks-8019-dep0030-oslo-postmottakaid.dep.nokontoradresseakersgata-64www.aid.dep.notelefon22-24-90-90org.nr.983-887-457avdelingvelferdspolitisk-avdelingsaksbehandlarvibeke-tralim22-24-85/id3144049/)  <small>(норвезькою)</small> 
 - [Офіційний посібник з питань економічної допомоги від NAV](https://www.statsforvalteren.no/siteassets/fm-agder/bilder-agder/helse-omsorg-og-sosialtjenester-bilder/sosiale-tjenester/ny-veileder-om-okonomisk-stonad-etter-sosialtjenesteloven.pdf) <small>(норвезькою)</small> 
 
 ## 3 етап: При участі в інтродукційній програмі
