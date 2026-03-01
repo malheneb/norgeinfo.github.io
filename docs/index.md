@@ -1,3 +1,7 @@
+!!! warning "**Увага!**"
+
+    Уряд Норвегії пропонує [зміни до правил](https://www.regjeringen.no/no/aktuelt/ap-regjeringen-foreslar-innstramming-for-ukrainske-menn/id3150326/) тимчасового колективного захисту для українців. Пропозиція передбачає, що чоловікам у віці від 18 до 60 років більше не буде надаватися колективний захист. Ці зміни стосуватимуться лише нових заяв. Прийняття змін планується до Великодня з їх швидким вступом у силу. Більше подробиць про зміни буде опубліковано пізніше.
+
 # Допомога українцям в Норвегії 🇺🇦 🇳🇴
 
 ## Посилання на загальну інформацію 
@@ -17,7 +21,7 @@ __Поліція Норвегії (Politiet)__ виконує функції, п
 
 - [Інформація щодо реєстрації в поліції для подання заяви про колективний захист (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/)
         
-- [Питання та відповіді: Процедура реєстрації та що робити після реєстрації (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
+- [Питання та відповіді: Процедура реєстрації та що робити після реєстрації (politiet.no)](https.www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
 
 ### Ny i Norge ("Нові в Норвегії")
 
