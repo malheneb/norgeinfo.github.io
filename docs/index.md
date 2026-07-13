@@ -21,7 +21,7 @@ __Поліція Норвегії (Politiet)__ виконує функції, п
 
 - [Інформація щодо реєстрації в поліції для подання заяви про колективний захист (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/)
         
-- [Питання та відповіді: Процедура реєстрації та що робити після реєстрації (politiet.no)](https.www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
+- [Питання та відповіді: Процедура реєстрації та що робити після реєстрації (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
 
 ### Ny i Norge ("Нові в Норвегії")
 

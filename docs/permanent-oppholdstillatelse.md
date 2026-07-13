@@ -7,7 +7,7 @@ hide:
 
 __Чи дає колективний захист право на отримання дозволу на постійне проживання?__
 
-Колективний захист у Норвегії протягом перших п'яти років [не є підставою для отримання дозволу на постійне проживання](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/what-does-it-mean-that-collective-protection-does-not-form-the-basis-for-permanent-residence/#link-30197). Іншими словами, дозвіл на _тимчасове_ перебування (midlertidig oppholdstillatelse) за колективним захистом не дає права на отримання дозволу на _постійне_ проживання в Норвегії. 
+Колективний захист у Норвегії протягом перших п'яти років [не є підставою для отримання дозволу на постійне проживання](https://www.udi.no/uk/information-ukraine-and-russia/ukraine/i-have-received-an-answer-to-my-application/my-application-for-collective-protection-has-been-granted/#link-34993). Іншими словами, дозвіл на _тимчасове_ перебування (midlertidig oppholdstillatelse) за колективним захистом не дає права на отримання дозволу на _постійне_ проживання в Норвегії. 
 
 Для отримання дозволу на постійне проживання (permanent oppholdstillatelse) необхідно мати той вид дозволу на _тимчасове_ перебування, який дає згодом (через 3 або 5 років залежно від типу дозволу) право на подання заявки на дозвіл на постійне проживання. Таким може бути, наприклад, «віза спеціаліста» (робоча віза) або по возз'єднанню сім'ї з тим, хто має робочу візу, дозвіл на постійне проживання або норвезьке громадянство.
 
@@ -33,8 +33,8 @@ __Див. також інформацію від UDI__:
 > 
 > - [Utlendingsloven § 34. Kollektiv beskyttelse i en massefluktsituasjon]
 > - [Utlendingsloven § 62. Permanent oppholdstillatelse]
-> - [Lov om endringer i utlendingsloven (forlengelse av antall år det kan gis kollektiv beskyttelse)](https://lovdata.no/dokument/NL/lov/2024-11-29-71)
+> - [Lov om endringer i utlendingsloven (forlengelse av antall år det kan gis kollektiv beskyttelse)](https://lovdata.no/lov/2024-11-29-71)
 > 
 > Офіційні сайти Норвегії
 > 
-> - [Що означає те, що колективний захист не дає підстав для отримання дозволу на постійне проживання? (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/what-does-it-mean-that-collective-protection-does-not-form-the-basis-for-permanent-residence/#link-30197)
+> - [Що означає те, що колективний захист не дає підстав для отримання дозволу на постійне проживання? (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/ukraine/i-have-received-an-answer-to-my-application/my-application-for-collective-protection-has-been-granted/#link-34993)

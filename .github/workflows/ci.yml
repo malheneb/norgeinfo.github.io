@@ -24,8 +24,18 @@ jobs:
             mkdocs-material-
       - run: pip install git+https://github.com/squidfunk/mkdocs-material
       - run: pip install pymdown-extensions
-      - run: pip install mkdocs-redirects
-      - run: pip install mkdocs-glightbox
-      - run: pip install mkdocs-include-markdown-plugin
       - run: pip3 install mkdocs-git-revision-date-localized-plugin
-      - run: mkdocs gh-deploy --force
+      - run: pip install mkdocs-htmlproofer-plugin
+      - name: Build and deploy (retry on transient link-check failures)
+        env:
+          VALIDATE_EXTERNAL_URLS: "true"
+        run: |
+          for attempt in 1 2 3; do
+            mkdocs gh-deploy --force && break
+            if [ "$attempt" -eq 3 ]; then
+              echo "mkdocs gh-deploy failed after 3 attempts"
+              exit 1
+            fi
+            echo "Attempt $attempt failed, retrying in 15s..."
+            sleep 15
+          done

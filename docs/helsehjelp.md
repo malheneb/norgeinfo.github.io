@@ -18,4 +18,4 @@ __Відділення чергової медичної служби (legevakt)
 
 - [Надання медичної допомоги шукачам притулку та біженцям у Норвегії (Helsenorge)](https://www.helsenorge.no/uk/utlendinger-i-norge/helsehjelp-for-asylsokere-og-flyktninger-i-norge/)
 
-- [Медевакуація до Норвегії. Інформація від Норвезького національного координаційного центру медевакуації](https://www.oslo-universitetssykehus.no/avdelinger/direktorens-stab/stab-virksomhetsstyring/stab-medisin-helsefag-og-beredskap/beredskap/medevac/informasjon-pa-ukrainsk/)
+- [Медевакуація до Норвегії. Інформація від Норвезького національного координаційного центру медевакуації](https://www.oslo-universitetssykehus.no/avdelinger/direktorens-stab/stab-fag-forskning-utdanning/stab-medisin-helsefag-og-beredskap/beredskap/medevac/informasjon-pa-ukrainsk/)
