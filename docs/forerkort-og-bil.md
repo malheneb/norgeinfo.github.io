@@ -53,7 +53,7 @@ __Важливо:__
 
 - У вас має бути при собі __фізичне__ посвідчення водія. Електронні посвідчення в «Дії» недійсні для використання на території Норвегії (у Норвегії на даний момент не визнаються іноземні цифрові посвідчення водія будь-якої держави, в тому числі через відсутність загальної системи верифікації цифрових посвідчень водія).
 - Власники прав водія повинні відповідати [норвезьким віковим вимогам](https://lovdata.no/forskrift/2004-01-19-298/%C2%A73-1) у відповідних класах прав водія.
-- Для професійних водіїв є вимоги щодо [професійної кваліфікації водія (Yrkessjåførkompetanse)](https.www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/using-a-non-eueea-driving-licence-in-norway/driving-licences-from-ukraine/). 
+- Для професійних водіїв є вимоги щодо [професійної кваліфікації водія (Yrkessjåførkompetanse)](https://www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/using-a-non-eueea-driving-licence-in-norway/driving-licences-from-ukraine/). 
 
 > :material-book-outline: __Джерела__
 > 
