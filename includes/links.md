@@ -6,4 +6,4 @@
 
 [Utlendingsloven § 62. Permanent oppholdstillatelse]: https://lovdata.no/lov/2008-05-15-35/§62
 
-[Що означає те, що колективний захист не дає підстав для отримання дозволу на постійне проживання?]: https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/what-does-it-mean-that-collective-protection-does-not-form-the-basis-for-permanent-residence/
+[Що означає те, що колективний захист не дає підстав для отримання дозволу на постійне проживання?]: https://www.udi.no/uk/information-ukraine-and-russia/ukraine/i-have-received-an-answer-to-my-application/my-application-for-collective-protection-has-been-granted/#link-34993
