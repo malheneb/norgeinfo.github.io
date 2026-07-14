@@ -1,6 +1,7 @@
 site_name: Допомога українцям в Норвегії 🇺🇦 🇳🇴
 theme:
   name: material
+  custom_dir: overrides
   palette:
       primary: custom
   language: uk
