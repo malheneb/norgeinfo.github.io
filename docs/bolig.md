@@ -99,5 +99,5 @@ __Договірне самопоселення це система, призн�
 - [Поселення сім'ї та самотніх дорослих у mottak (imdi.no)](https://www.imdi.no/bosetting/tildeling-av-kommune/bofellesskap-for-enslige-voksne-flyktninger/)
 - [Поселення українців, які отримали тимчасовий колективний захист](https://udi.no/globalassets/ukrainasituasjonen-inkl-russlandinfo/ukr---bosetting-for-ukrainere-som-har-fatt-kollektiv-beskyttelse.pdf)
 - [Поселення біженців, які самостійно знайшли житло (imdi.no)](https://www.imdi.no/planlegging-og-bosetting/bosettingsprosessen/selvbosetting/)
-- [Приклад процесу avtalt selvbosetting в Stavanger Kommune](https://www.stavanger.kommune.no/uk-ua/sosialtjenester/flyktningtjenesten-i-stavanger/----/)
+- [Приклад процесу avtalt selvbosetting в Stavanger Kommune](https://www.stavanger.kommune.no/sosialtjenester/flyktningtjenesten-i-stavanger/avtalt-selvbosetting/)
 - [Приклад процесу avtalt selvbosetting в Bergen Kommune](https://www.bergen.kommune.no/innbyggerhjelpen/bolig-og-sosiale-tjenester/botilbud/kommunal-bolig/avtalt-selvbosetting-for-flyktninger)
