@@ -22,7 +22,7 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install git+https://github.com/squidfunk/mkdocs-material
+      - run: pip install mkdocs-material==9.7.6
       - run: pip install pymdown-extensions
       - run: pip3 install mkdocs-git-revision-date-localized-plugin
       - run: pip install mkdocs-htmlproofer-plugin

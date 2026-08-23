@@ -36,7 +36,7 @@
 
 ## Інша допомога
 
-- [У вас високі витрати на житло та низький дохід? У цьому разі ви можете мати право на отримання житлової субсидії (Husbanken)](https://nedlasting.husbanken.no/Filer/9e6u.pdf)
+- [У вас високі витрати на житло та низький дохід? У цьому разі ви можете мати право на отримання житлової субсидії (Husbanken)](https://www.husbanken.no/person/bostotte/kan-jeg-faa-bostotte/) <small>(норвезькою)</small>
 
 - [Фінансова соціальна допомога (NAV)](https://www.nav.no/ukraina/uk#okonomisk-sosialhjelp-ua).
 
